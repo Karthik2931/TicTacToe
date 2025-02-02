@@ -24,7 +24,7 @@ nav ul{
 
 .Box{
     position: relative;
-    background-color: gold;
+    /* background-color: gold; */
     display: flex;
     justify-content: center;
     margin-top: 50px;
